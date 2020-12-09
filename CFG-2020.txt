@@ -1,0 +1,12 @@
+V: S, A, B, C, D, a, b
+T: a, b
+S: S
+P:
+S:: aA
+S:: aBB
+A:: aaA
+A:: $
+B:: bB
+B:: b
+B:: bbC
+D:: AB
